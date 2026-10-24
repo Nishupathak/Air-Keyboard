@@ -15,7 +15,7 @@ Type in mid-air using nothing but your webcam and your hands.
 
 <!-- Replace the file names below with your own screenshots / GIF inside a "screenshots" folder -->
 
-![Main screen](<img width="1059" height="632" alt="1022" src="https://github.com/user-attachments/assets/9407f58b-04d0-4739-9939-f6fc04ad29c5" />
+[Main screen] (<img width="1059" height="632" alt="1022" src="https://github.com/user-attachments/assets/9407f58b-04d0-4739-9939-f6fc04ad29c5" />
 
 ---
 
